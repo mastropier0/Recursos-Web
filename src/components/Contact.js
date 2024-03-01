@@ -10,11 +10,19 @@ export default function Contact() {
       <h4>Feedback</h4>
       <p className="text-justify">
         Este es un proyecto Open Source y colaborativo, si querés saber más
-        podés acceder al proyecto en <a href="https://github.com/mastropier0/Recursos-Web">GitHub</a> y ofrecer sugerencias
-        mediante el formulario.
+        podés acceder al proyecto en{' '}
+        <a
+          href="https://github.com/mastropier0/Recursos-Web"
+          rel="noreferrer"
+          target="_blank"
+        >
+          GitHub
+        </a>{' '}
+        y ofrecer sugerencias mediante el formulario.
       </p>
       <div className="row mb-3">
         <input
+          required
           type="text"
           className="form-control"
           placeholder="Asunto"
@@ -24,6 +32,7 @@ export default function Contact() {
       </div>
       <div className="row mb-3">
         <input
+          required
           type="email"
           className="form-control"
           placeholder="Tu email"
@@ -33,6 +42,7 @@ export default function Contact() {
       </div>
       <div class="row">
         <textarea
+          required
           className="form-control"
           placeholder="Escribe tu comentario aquí..."
           id="mensaje"
