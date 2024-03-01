@@ -16,7 +16,7 @@ function App() {
           <Accordion />
         </div>
         <div className="row mb-4">
-          <div className="col-3"></div>
+          <div className="col-1 col-md-3"></div>
           <Contact />
         </div>
       </div>
