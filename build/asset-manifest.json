@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Recursos-Web/build/static/css/main.6d544a61.css",
+    "main.js": "/Recursos-Web/build/static/js/main.108c539c.js",
+    "static/media/patternpad.svg": "/Recursos-Web/build/static/media/patternpad.9867b2044ea2fc189e42.svg",
+    "index.html": "/Recursos-Web/build/index.html",
+    "main.6d544a61.css.map": "/Recursos-Web/build/static/css/main.6d544a61.css.map",
+    "main.108c539c.js.map": "/Recursos-Web/build/static/js/main.108c539c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d544a61.css",
+    "static/js/main.108c539c.js"
+  ]
+}

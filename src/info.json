@@ -1,0 +1,353 @@
+[
+  {
+    "nombre": "Inteligencia-Artificial",
+    "links": [
+      {
+        "nombre": "Futurepedia",
+        "link": "https://www.futurepedia.io/",
+        "descripcion": "Recopilación de herramientas de Inteligencia Artificial."
+      },
+      {
+        "nombre": "FutureTools",
+        "link": "https://www.futuretools.io/",
+        "descripcion": "Recopilación de herramientas de Inteligencia Artificial."
+      },
+      {
+        "nombre": "ChatPDF",
+        "link": "https://www.chatpdf.com/",
+        "descripcion": "Permite interactuar con archivos .pdf mediante un chat."
+      },
+      {
+        "nombre": "JSON Data AI",
+        "link": "https://www.jsondataai.com/",
+        "descripcion": "Permite generar archivos JSON usando Inteligencia Artificial."
+      },
+      {
+        "nombre": "V0",
+        "link": "https://v0.dev/",
+        "descripcion": "Permite generar componentes web usando Inteligencia Artificial."
+      },
+      {
+        "nombre": "Flux",
+        "link": "https://flux.ai/",
+        "descripcion": "Permite generar componentes electrónicos usando Inteligencia Artificial."
+      },
+      {
+        "nombre": "Studyable",
+        "link": "https://studyable.app/",
+        "descripcion": "Permite interactuar con IA, para poder calificar ensayos, crear flashcards, recibir explicaciones sobre temas."
+      }
+    ]
+  },
+  {
+    "nombre": "Algoritmos/Estructuras-de-Datos",
+    "links": [
+      {
+        "nombre": "Algorithm Visualizer",
+        "link": "https://algorithm-visualizer.org/",
+        "descripcion": "Colección de algoritmos con su explicación y la representación gráfica."
+      },
+      {
+        "nombre": "Visualgo",
+        "link": "https://visualgo.net/en",
+        "descripcion": "Colección de algoritmos con su código y la representación gráfica."
+      },
+      {
+        "nombre": "Kaggle",
+        "link": "https://www.kaggle.com/",
+        "descripcion": "Gran colección de datasets sobre distintos tópicos."
+      }
+    ]
+  },
+  {
+    "nombre": "UX/UI",
+    "links": [
+      {
+        "nombre": "Coolors",
+        "link": "https://coolors.co/",
+        "descripcion": "Gran variedad de paletas de colores."
+      },
+      {
+        "nombre": "CSS Gradient",
+        "link": "https://cssgradient.io/",
+        "descripcion": "Herramienta que permite crear gradientes de CSS."
+      },
+      {
+        "nombre": "Omatsuri",
+        "link": "https://omatsuri.app/",
+        "descripcion": "Colección de herramientas para diseño web."
+      },
+      {
+        "nombre": "UIVerse",
+        "link": "https://uiverse.io/",
+        "descripcion": "Gran colección de componentes Open Source."
+      },
+      {
+        "nombre": "FontJoy",
+        "link": "https://fontjoy.com/",
+        "descripcion": "Permite generar combinaciones de fuentes."
+      },
+      {
+        "nombre": "Happy Hues",
+        "link": "https://www.happyhues.co/",
+        "descripcion": "Colección de paletas de colores."
+      },
+      {
+        "nombre": "Color Magic",
+        "link": "https://colormagic.app",
+        "descripcion": "Crear paletas de colores usando IA."
+      },
+      {
+        "nombre": "Colour Contrast",
+        "link": "https://colourcontrast.cc",
+        "descripcion": "Permite chequear el contraste entre colores."
+      },
+      {
+        "nombre": "Shape Divider",
+        "link": "https://www.shapedivider.app/",
+        "descripcion": "Permite crear divisores para páginas web."
+      },
+      {
+        "nombre": "unDraw",
+        "link": "https://undraw.co/illustrations",
+        "descripcion":"Gran colección de ilustraciones open source."
+      },
+      {
+        "nombre": "PatternPad",
+        "link": "https://patternpad.com/",
+        "descripcion":"Permite crear mosaicos con patrones."
+      },
+      {
+        "nombre": "Tools.design",
+        "link": "https://toools.design/",
+        "descripcion":"Colección de recursos gratuitos de UX/UI."
+      },
+      {
+        "nombre": "Neumorphism",
+        "link": "https://neumorphism.io",
+        "descripcion":"Permite modelar las sombras de componentes web."
+      }
+    ]
+  },
+  {
+    "nombre": "APIs",
+    "links": [
+      {
+        "nombre": "publicapis.dev",
+        "link": "https://publicapis.dev/",
+        "descripcion": "Gran colección de APIs separadas por temáticas."
+      },
+      {
+        "nombre": "publicapis.io",
+        "link": "https://publicapis.io",
+        "descripcion": "Colección de APIs con breves explicaciones de cómo utilizarlas."
+      }
+    ]
+  },
+  {
+    "nombre": "Ciencias",
+    "links": [
+      {
+        "nombre": "Wolfram Alpha",
+        "link": "https://www.wolframalpha.com/",
+        "descripcion": "Gran colección de herramientas de Matemática, Fisica, Química, etc."
+      },
+      {
+        "nombre": "GeoGebra Suite",
+        "link": "https://www.geogebra.org/calculator",
+        "descripcion": "Variedad de calculadoras que permiten representación geométrica."
+      },
+      {
+        "nombre": "ChemSketch",
+        "link": "https://www.acdlabs.com/resources/free-chemistry-software-apps/chemsketch-freeware/",
+        "descripcion": "Programa gratuito que permite dibujar estructuras químicas."
+      },
+      {
+        "nombre": "Academic Phrasebank",
+        "link": "https://www.phrasebank.manchester.ac.uk/",
+        "descripcion": "Recopilación de buenas prácticas a la hora de redactar trabajos de investigación."
+      },
+      {
+        "nombre": "Pub Med",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/",
+        "descripcion": "Buscador de papers científicos sobre medicina."
+      },
+      {
+        "nombre": "Biology Online",
+        "link": "https://www.biologyonline.com/",
+        "descripcion": "Enciclopedia sobre temas de biología."
+      },
+      {
+        "nombre": "UpToDate",
+        "link": "https://sso.uptodate.com/contents/search",
+        "descripcion": "Permite buscar información sobre patologías o medicamentos."
+      },
+      {
+        "nombre": "Landgreen",
+        "link": "https://landgreen.github.io/physics/index.html",
+        "descripcion": "Contiene información sobre varios temas de física."
+      },
+      {
+        "nombre": "Explorable Explanations",
+        "link": "https://explorabl.es/",
+        "descripcion": "Contiene un conjunto de juegos didácticos sobre distintos tópicos."
+      },
+      {
+        "nombre": "Phet Interactive Simulations",
+        "link": "https://phet.colorado.edu/en/simulations/browse",
+        "descripcion": "Contiene un conjunto de simulaciones interactivas sobre distintos fenémenos."
+      }
+      
+    ]
+  },
+  {
+    "nombre": "Repositorios/CheatSheets",
+    "links": [
+      {
+        "nombre": "Roadmap.sh",
+        "link": "https://roadmap.sh/",
+        "descripcion": "Gran variedad de rutas de aprendizaje sobre distintas temáticas."
+      },
+      {
+        "nombre": "The Art of Command Line",
+        "link": "https://github.com/jlevy/the-art-of-command-line/",
+        "descripcion": "Guía para aprender a manejar las lineas de comandos."
+      },
+      {
+        "nombre": "Project based learning",
+        "link": "https://github.com/practical-tutorials/project-based-learning/",
+        "descripcion": "Colección de tutoriales para aprender a programar con proyectos."
+      },
+      {
+        "nombre": "Build your own X",
+        "link": "https://github.com/codecrafters-io/build-your-own-x",
+        "descripcion": "Colección de tutoriales para recrear tecnologías desde cero."
+      },
+      {
+        "nombre": "Over API",
+        "link": "https://overapi.com/",
+        "descripcion": "Colección de cheat sheets de distintas tecnologías."
+      },
+      {
+        "nombre": "Dev Docs",
+        "link": "https://devdocs.io",
+        "descripcion": "Información y documentación de distintas tecnologías."
+      }
+    ]
+  },
+  {
+    "nombre": "Cursos",
+    "links": [
+      {
+        "nombre": "Class Central",
+        "link": "https://classcentral.com/",
+        "descripcion": "Gran colección de cursos de distintas universidades y por empresas."
+      },
+      {
+        "nombre": "FreeCodeCamp",
+        "link": "https://www.freecodecamp.org/",
+        "descripcion": "Colección de tutoriales para aprender tecnologías, algunos cuentan con certificado."
+      },
+      {
+        "nombre": "Odin Project",
+        "link": "https://www.theodinproject.com",
+        "descripcion": "Colección de tutoriales para aprender tecnologías"
+      },
+      {
+        "nombre": "Harvard",
+        "link": "https://pll.harvard.edu/catalog/free?page=0",
+        "descripcion": "Colección de cursos gratuitos dictados por Harvard."
+      },
+      {
+        "nombre": "MIT Open Courseware",
+        "link": "https://ocw.mit.edu/",
+        "descripcion": "Colección de cursos gratuitos dictados por el MIT."
+      },
+      {
+        "nombre": "Full Stack Open",
+        "link": "https://fullstackopen.com/es/",
+        "descripcion": "Curso de desarrollador Full Stack dictado por la University of Helsinki."
+      },
+      {
+        "nombre": "Cognitive Class",
+        "link": "https://cognitiveclass.ai/",
+        "descripcion": "Colección de cursos gratuitos enfocados a la teconología, dictados por IBM."
+      },
+      {
+        "nombre": "Khan Academy",
+        "link": "https://www.khanacademy.org/",
+        "descripcion": "Colección de cursos gratuitos sobre distintas temáticas."
+      }
+    ]
+  },
+  {
+    "nombre": "Bibliografía",
+    "links": [
+      {
+        "nombre": "Anna's Archive",
+        "link": "https://annas-archive.org/",
+        "descripcion": "Descargar libros de forma gratuita."
+      },
+      {
+        "nombre": "Sci-Hub",
+        "link": "https://www.sci-hub.st/",
+        "descripcion": "Descargar libros y artículos científicos de forma gratuita."
+      },
+      {
+        "nombre": "Open Textbook Library",
+        "link": "https://open.umn.edu/opentextbooks/subjects",
+        "descripcion": "Descargar libros de estudio gratis de libre distribución."
+      },
+      {
+        "nombre": "Google Academico",
+        "link": "https://scholar.google.com/",
+        "descripcion": "Buscar libros, revistas, articulos, noticias disponibles en Google."
+      }
+    ]
+  },
+  {
+    "nombre": "Tecnologías/Herramientas/Recursos",
+    "links": [
+      {
+        "nombre": "Learning Git Branching",
+        "link": "https://learngitbranching.js.org",
+        "descripcion": "Permite aprender operaciones de git visualizando su efecto."
+      },
+      {
+        "nombre": "SQL Practice",
+        "link": "https://www.sql-practice.com/",
+        "descripcion": "Permite practicar SQL de forma interactiva."
+      },
+      {
+        "nombre": "AlternativeTo",
+        "link": "https://alternativeto.net/",
+        "descripcion": "Permite buscar y comparar alternativas a programas y aplicaciones."
+      },
+      {
+        "nombre": "Excalidraw",
+        "link": "https://excalidraw.com/",
+        "descripcion": "Pizarra para hacer anotaciones y dibujos, permite trabajo colaborativo."
+      },
+      {
+        "nombre": "Jitsi",
+        "link": "https://meet.jit.si/",
+        "descripcion": "Permite hacer videollamadas gratis y sin limite de duración."
+      },
+      {
+        "nombre": "TinyWow",
+        "link": "https://tinywow.com//",
+        "descripcion": "Herrmientas para manipular archivos (imágenes,texto, videos, etc)."
+      },
+      {
+        "nombre": "Refactoring Guru",
+        "link": "https://refactoring.guru/es",
+        "descripcion": "Catálogo de patrones de diseño con explicaciones y ejemplos."
+      },
+      {
+        "nombre": "We Transfer",
+        "link": "https://wetransfer.com/",
+        "descripcion": "Permite enviar archivos pesados por email gratis(hasta 2GB)."
+      }
+    ]
+  }
+]

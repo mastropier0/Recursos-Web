@@ -1,0 +1,82 @@
+:root {
+  --color-primario: #191a1a;
+  --color-secundario: #EFF7CF;
+  --color-terciario: #A4243B;
+  --tamano-fuente: 16px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Miriam+Libre:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mako&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+.App {
+  /*background: linear-gradient(69deg, rgba(17,21,28,1) 0%, rgba(33,45,64,1) 35%, rgba(125,78,87,1) 100%); */
+    background-image: url(../images/patternpad.svg);
+    color: var(--color-secundario);
+    overflow-x: hidden;
+}
+
+
+.header p, footer {
+  color: var(--color-primario);
+}
+
+.header p, .texto-footer, textarea, form p {
+  font-family: "Miriam Libre", serif;
+  font-weight: 200;
+  font-size: small;
+}
+
+.header h1, h4 {
+  font-family: "Roboto Mono", monospace;
+}
+
+hr {
+  color: var(--color-secundario);
+}
+
+
+.description, .nombre-link {
+  font-family: "Mako", sans-serif;
+}
+
+.link {
+  text-decoration: none;
+  border-color: var(--color-terciario) !important;
+  text-wrap: nowrap;
+}
+
+.nombre-link, .enviar {
+  color: var(--color-secundario);
+  background-color: var(--color-primario);
+}
+.nombre-link:hover, .enviar:hover {
+  background-color: var(--color-terciario);
+  border-width: thin;
+  border-color: var(--color-secundario);
+}
+
+.accordion-button, .header p, input, textarea, form, footer {
+  opacity: 0.75;
+}
+
+.accordion-body {
+  background-color: var(--color-primario);
+  color: var(--color-secundario);
+}
+
+.accordion-button:focus, textarea:focus, input:focus {
+  box-shadow: 0 0 0 0.2rem var(--color-terciario) !important; /* Agregar una sombra de enfoque roja */
+}
+
+form {
+  color: var(--color-primario);
+}
+
+form p {
+  text-align: justify;
+}
+
+form p a {
+  color: var(--color-terciario);
+}
